@@ -1,4 +1,4 @@
-# 🚀 QA Technical Challenge – Flit
+# 🚀 Automação de testes utilizando Playwright para o desafio técnico de QA da Flit.
 
 Automação de testes desenvolvida como parte do desafio técnico para a vaga de **Quality Assurance** na **Flit**.
 
